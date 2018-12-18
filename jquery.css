@@ -1,0 +1,49 @@
+#accordion{
+    border: 1px solid black;
+    background: gray;
+    
+    
+}
+#accordion:hover{
+    border: 1px solid black;
+    background: black
+    
+}
+
+#accordion2{
+    border: 1px solid black;
+    background: gray
+
+}
+#accordion2:hover{
+    border: 1px solid black;
+    background: black
+    
+}
+#accordion3{
+    border: 1px solid black;
+    background: gray
+}
+#accordion3:hover{
+    border: 1px solid black;
+    background: black
+    
+}
+#accordion4{
+    border: 1px solid black;
+    background: gray
+}
+#accordion4:hover{
+    border: 1px solid black;
+    background: black
+    
+}
+.main{
+    width: 200px;
+    height: 200px;
+    
+    
+}
+h1{
+    background: white;
+}
